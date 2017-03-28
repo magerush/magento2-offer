@@ -78,4 +78,4 @@ setup/
 update/
 var/
 vendor/
-!vendor/magerush/*
+!vendor/magerush/
