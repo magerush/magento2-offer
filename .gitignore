@@ -49,6 +49,7 @@ atlassian*
 !/var/.htaccess
 /vendor/*
 !/vendor/.htaccess
+!/vendor/magerush
 
 .htaccess
 .htaccess.sample
@@ -78,4 +79,4 @@ setup/
 update/
 var/
 vendor/
-!vendor/magerush/
+!vendor/magerush
